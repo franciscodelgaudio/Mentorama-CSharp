@@ -19,6 +19,6 @@ Fazer um código com 3 valores e encontrar o maior valor.
 <a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module2">Arquivo de Atividades</a>  
   
 <div align="center">
-  <img src="![codigo](https://github.com/user-attachments/assets/5e7d8cc8-fd1e-4cfb-b869-ebc07095c361)" alt="project" style="max-width: 100%">
-  <img src="![resultado](https://github.com/user-attachments/assets/afc87b77-9d89-4864-968d-950807c82bff)" alt="project" style="max-width: 100%">
+  <img src="https://github.com/user-attachments/assets/5e7d8cc8-fd1e-4cfb-b869-ebc07095c361" alt="project" style="max-width: 100%">
+  <img src="https://github.com/user-attachments/assets/afc87b77-9d89-4864-968d-950807c82bff" alt="project" style="max-width: 100%">
 </div>
