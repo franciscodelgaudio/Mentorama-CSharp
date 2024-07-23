@@ -31,3 +31,12 @@ Criar um objeto com vida.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0dd298be-c118-4ea3-99ac-a3c3205539b3" alt="project" style="max-width: 100%">
 </div>
+
+# Módulo 4
+Quarta atividade do módulo:  
+Criar uma matriz onde suas bordas possuam uma altura fixa, e o meio com altura variável.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module4">Arquivo de Atividades</a>  
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/64560cd3-9d33-4c81-8def-f48362a72dd3" alt="project" style="max-width: 100%">
+</div>
