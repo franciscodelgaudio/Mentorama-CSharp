@@ -49,3 +49,12 @@ Utilizar a cena do módulo 4 e remover todos os cubos da posição do topo.
 <div align="center">
   <img src="#" alt="project" style="max-width: 100%">
 </div>
+
+# Módulo 6
+Sexta atividade do módulo:  
+Colocar estado da patrulha onde entre um movimento e outro ficar parado por um tempo, também adicionar uma lista de patrulhas, onde ao clicar espaço, alterne entre elas.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module6">Arquivo de Atividades</a>  
+  
+<div align="center">
+  <img src="#" alt="project" style="max-width: 100%">
+</div>
