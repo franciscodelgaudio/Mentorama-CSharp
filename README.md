@@ -58,3 +58,12 @@ Colocar estado da patrulha onde entre um movimento e outro ficar parado por um t
 <div align="center">
   <img src="#" alt="project" style="max-width: 100%">
 </div>
+
+# Módulo 7
+Sétima atividade do módulo:  
+Criar uma classe armadura para o Player utilizar, aplicando suas funções em paralelo ao ataque;  
+<a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module7">Arquivo de Atividades</a>   
+  
+<div align="center">
+  <img src="#" alt="project" style="max-width: 100%">
+</div>
