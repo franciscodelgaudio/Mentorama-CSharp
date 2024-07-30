@@ -67,3 +67,12 @@ Criar uma classe armadura para o Player utilizar, aplicando suas funções em pa
 <div align="center">
   <img src="#" alt="project" style="max-width: 100%">
 </div>
+
+# Módulo 8
+Sétima atividade do módulo:  
+Criar uma classe armadura para o Player utilizar, aplicando suas funções em paralelo ao ataque;  
+<a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module8">Arquivo de Atividades</a>   
+  
+<div align="center">
+  <img src="#" alt="project" style="max-width: 100%">
+</div>
