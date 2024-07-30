@@ -69,8 +69,8 @@ Criar uma classe armadura para o Player utilizar, aplicando suas funções em pa
 </div>
 
 # Módulo 8
-Sétima atividade do módulo:  
-Criar uma classe armadura para o Player utilizar, aplicando suas funções em paralelo ao ataque;  
+Oitava atividade do módulo
+Extender o "Character" para outra classe. ex: "ork", "elfo".
 <a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module8">Arquivo de Atividades</a>   
   
 <div align="center">
