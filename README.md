@@ -69,9 +69,18 @@ Criar uma classe armadura para o Player utilizar, aplicando suas funções em pa
 </div>
 
 # Módulo 8
-Oitava atividade do módulo
-Extender o "Character" para outra classe. ex: "ork", "elfo".
+Oitava atividade do módulo  
+Extender o "Character" para outra classe. ex: "ork", "elfo".  
 <a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module8">Arquivo de Atividades</a>   
+  
+<div align="center">
+  <img src="#" alt="project" style="max-width: 100%">
+</div>
+
+Módulo 9
+Nona atividade do módulo:  
+Criar um evento para quando o player morre, exibindo as informações em um UI (User Interface);  
+<a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module9">Arquivo de Atividades</a>   
   
 <div align="center">
   <img src="#" alt="project" style="max-width: 100%">
