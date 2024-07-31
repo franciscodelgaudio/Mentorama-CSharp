@@ -77,7 +77,7 @@ Extender o "Character" para outra classe. ex: "ork", "elfo".
   <img src="#" alt="project" style="max-width: 100%">
 </div>
 
-Módulo 9
+# Módulo 9
 Nona atividade do módulo:  
 Criar um evento para quando o player morre, exibindo as informações em um UI (User Interface);  
 <a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module9">Arquivo de Atividades</a>   
