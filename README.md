@@ -83,7 +83,7 @@ Criar um evento para quando o player morre, exibindo as informações em um UI (
 <a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module9">Arquivo de Atividades</a>   
   
 <div align="center">
-  <img src="#" alt="project" style="max-width: 100%">
+  <img src="https://github.com/user-attachments/assets/020dfc06-b297-48a9-89c2-6c9cf38fecf0" alt="project" style="max-width: 100%">
 </div>
 
 # Módulo 10
