@@ -74,7 +74,8 @@ Extender o "Character" para outra classe. ex: "ork", "elfo".
 <a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module8">Arquivo de Atividades</a>   
   
 <div align="center">
-  <img src="#" alt="project" style="max-width: 100%">
+  <img src="https://github.com/user-attachments/assets/a59a708e-46e1-44ed-aa18-9e1fbbc7c64e" alt="project" style="max-width: 100%">
+  <img src="https://github.com/user-attachments/assets/3a8b25f5-bf1a-480b-8835-4d86b16502ab" alt="project" style="max-width: 100%">
 </div>
 
 # Módulo 9
