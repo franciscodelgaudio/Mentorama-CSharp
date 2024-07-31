@@ -47,7 +47,7 @@ Utilizar a cena do módulo 4 e remover todos os cubos da posição do topo.
 <a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module5">Arquivo de Atividades</a>  
   
 <div align="center">
-  <img src="#" alt="project" style="max-width: 100%">
+  <img src="https://github.com/user-attachments/assets/6a52f9ff-c3ab-4d66-8d17-d38dd3c45f27" alt="project" style="max-width: 100%">
 </div>
 
 # Módulo 6
