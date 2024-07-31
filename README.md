@@ -65,7 +65,7 @@ Criar uma classe armadura para o Player utilizar, aplicando suas funções em pa
 <a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module7">Arquivo de Atividades</a>   
   
 <div align="center">
-  <img src="#" alt="project" style="max-width: 100%">
+  <img src="https://github.com/user-attachments/assets/97f35470-51f6-4641-8762-69c7adf8871b" alt="project" style="max-width: 100%">
 </div>
 
 # Módulo 8
