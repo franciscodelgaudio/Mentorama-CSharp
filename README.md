@@ -85,3 +85,12 @@ Criar um evento para quando o player morre, exibindo as informações em um UI (
 <div align="center">
   <img src="#" alt="project" style="max-width: 100%">
 </div>
+
+# Módulo 10
+Décima atividade do módulo:  
+Alterar o modo de alternar as patrulhar, ao inves de a patrulha alternar com base no tempo, alternar com base em uma trigger  
+<a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module9">Arquivo de Atividades</a>   
+  
+<div align="center">
+  <img src="#" alt="project" style="max-width: 100%">
+</div>
