@@ -1,3 +1,4 @@
+## Mentorama-CSharp
 **Curso:** Profissão Desenvolvedor de Games em Unity  
 **Módulo:** C# para Jogos  
 **Versão do Unity:** 2021.3.1f1  
@@ -55,7 +56,7 @@ adicionar uma lista de patrulhas, onde ao clicar espaço, alterne entre elas.
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module6">Arquivo de Atividades</a>  
   
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6a05ed94-4fe8-42ce-a2d6-705890c7b765" alt="project" style="max-width: 100%">
+  <img src="https://github.com/user-attachments/assets/19e82359-42c6-477d-8dc8-f07f291504a9" alt="project" style="max-width: 100%">
 </div>
   
 # Módulo 7
