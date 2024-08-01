@@ -3,22 +3,24 @@ Curso: Profissão Desenvolvedor de Games em Unity
 Módulo: C# para Jogos
 Versão do Unity: 2021.3.1f1
 Acessar os arquivos das atividades na pasta: Files
+  
+# Módulo 1
+Primeira atividade do módulo:  
+Fazer um fluxograma de uma atividade.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module1">Arquivo de Atividades</a>
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6a05ed94-4fe8-42ce-a2d6-705890c7b765" alt="project" style="max-width: 100%">
+</div>
 
-Módulo 1
-Primeira atividade do módulo:
-Fazer um fluxograma de uma atividade.
-Arquivos da Atividade
-
-project
-
-Módulo 2
+# Módulo 2
 Segunda atividade do módulo:
 Fazer um código com 3 valores e encontrar o maior valor.
 Arquivos da Atividade
 
 project
 
-Módulo 3
+# Módulo 3
 Terceira atividade do módulo:
 Criar um objeto com vida.
 Arquivos da Atividade
