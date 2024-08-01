@@ -1,4 +1,3 @@
-![Animação (0)](https://github.com/user-attachments/assets/cd057f24-4e5e-4e93-898f-859751fa407e)# Mentorama-Csharp
 Curso: Profissão Desenvolvedor de Games em Unity
 Módulo: C# para Jogos
 Versão do Unity: 2021.3.1f1
