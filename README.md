@@ -99,7 +99,7 @@ Alterar o modo de alternar as patrulhar, ao inves de a patrulha alternar com bas
 # Módulo 11
 Décima primeira atividade do módulo:  
 Jogar o game de git: https://learngitbranching.js.org/?locale=pt_BR  
-Criar uma conta no github e criar um respositório com template do unity.  
+Criar uma conta no github e criar um repositório com template do unity.  
 <a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module11">Arquivo de Atividades</a>   
   
 <div align="center">
