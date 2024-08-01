@@ -1,7 +1,6 @@
-Curso: Profissão Desenvolvedor de Games em Unity
-Módulo: C# para Jogos
-Versão do Unity: 2021.3.1f1
-Acessar os arquivos das atividades na pasta: Files
+**Curso:** Profissão Desenvolvedor de Games em Unity
+**Módulo:** C# para Jogos
+**Versão do Unity:** 2021.3.1f1
   
 # Módulo 1
 Primeira atividade do módulo:  
