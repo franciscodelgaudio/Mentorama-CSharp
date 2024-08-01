@@ -90,8 +90,19 @@ Criar um evento para quando o player morre, exibindo as informações em um UI (
 # Módulo 10
 Décima atividade do módulo:  
 Alterar o modo de alternar as patrulhar, ao inves de a patrulha alternar com base no tempo, alternar com base em uma trigger  
-<a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module9">Arquivo de Atividades</a>   
+<a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module10">Arquivo de Atividades</a>   
   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bd40cdd0-21d0-4766-a8d8-cc8c80050eb4" alt="project" style="max-width: 100%">
+</div>
+
+# Módulo 11
+Décima primeira atividade do módulo:  
+Jogar o game de git: https://learngitbranching.js.org/?locale=pt_BR  
+Criar uma conta no github e criar um respositório com template do unity.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-CSharp/tree/main/Module11">Arquivo de Atividades</a>   
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/67d99a60-ee31-407a-ab96-fe4ff2536bdc" alt="project" style="max-width: 100%">
+  <img src="https://github.com/user-attachments/assets/521ab026-9ddc-4d44-8353-197d83e8dfc0" alt="project" style="max-width: 100%">
 </div>
