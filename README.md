@@ -7,7 +7,7 @@ Acessar os arquivos das atividades na pasta: Files
 # Módulo 1
 Primeira atividade do módulo:  
 Fazer um fluxograma de uma atividade.  
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module1">Arquivo de Atividades</a>
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module1">Arquivo de Atividades</a>  
   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6a05ed94-4fe8-42ce-a2d6-705890c7b765" alt="project" style="max-width: 100%">
@@ -16,7 +16,7 @@ Fazer um fluxograma de uma atividade.
 # Módulo 2
 Segunda atividade do módulo:  
 Fazer um código com 3 valores e encontrar o maior valor.  
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module2">Arquivo de Atividades</a>
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module2">Arquivo de Atividades</a>  
   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/088114a5-e5d7-42d5-bb94-d37b4f05c73e" alt="project" style="max-width: 100%">
@@ -34,8 +34,8 @@ Criar um objeto com vida.
 
 # Módulo 4
 Quarta atividade do módulo:  
-Criar uma matriz onde suas bordas possuam uma altura fixa, e o meio com altura variável.
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module4">Arquivo de Atividades</a>
+Criar uma matriz onde suas bordas possuam uma altura fixa, e o meio com altura variável.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module4">Arquivo de Atividades</a>  
   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4a7871ab-be43-460f-bb1d-f9b2226dba05" alt="project" style="max-width: 100%">
@@ -51,10 +51,10 @@ Utilizar a cena do módulo 4 e remover todos os cubos da posição do topo.
 </div>
 
 # Módulo 6
-Sexta atividade do módulo:
-Colocar estado da patrulha onde entre um movimento e outro ficar parado por um tempo;
-adicionar uma lista de patrulhas, onde ao clicar espaço, alterne entre elas.
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module6">Arquivo de Atividades</a>
+Sexta atividade do módulo:  
+Colocar estado da patrulha onde entre um movimento e outro ficar parado por um tempo;  
+adicionar uma lista de patrulhas, onde ao clicar espaço, alterne entre elas.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module6">Arquivo de Atividades</a>  
   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6a05ed94-4fe8-42ce-a2d6-705890c7b765" alt="project" style="max-width: 100%">
@@ -83,7 +83,7 @@ Extender o "Character" para outra classe. ex: "ork", "elfo".
 # Módulo 9
 Nona atividade do módulo:  
 Criar um evento para quando o player morre, exibindo as informações em um UI (User Interface);  
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module9">Arquivo de Atividades</a>
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module9">Arquivo de Atividades</a>  
   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ffae16ac-0566-48b0-93fe-fb3d97b81b9d" alt="project" style="max-width: 100%">
@@ -92,7 +92,7 @@ Criar um evento para quando o player morre, exibindo as informações em um UI (
 # Módulo 10
 Décima atividade do módulo:  
 Alterar o modo de alternar as patrulhar, ao inves de a patrulha alternar com base no tempo, alternar com base em uma trigger  
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module10">Arquivo de Atividades</a>
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module10">Arquivo de Atividades</a>  
   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0466210c-c0e2-45c8-be7b-477e103c85cc" alt="project" style="max-width: 100%">
