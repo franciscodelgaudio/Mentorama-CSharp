@@ -108,3 +108,11 @@ Criar uma conta no github e criar um respositório com template do unity.
   <img src="https://github.com/user-attachments/assets/db76bc8f-43ec-45c8-a91c-fcf5e2c09732" alt="project" style="max-width: 100%">
 </div>
 
+## Módulo 12
+Décima segunda atividade do módulo:  
+Adicionar pontuação ao pegar os fantasmas, 200-400-600-800.  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module12">Arquivo de Atividades</a>  
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/961b4081-7ed1-4ae4-aea2-52056ca7d3ad" alt="project" style="max-width: 100%">
+</div>
