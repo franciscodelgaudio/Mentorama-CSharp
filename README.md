@@ -116,3 +116,12 @@ Adicionar pontuação ao pegar os fantasmas, 200-400-600-800.
 <div align="center">
   <img src="https://github.com/user-attachments/assets/961b4081-7ed1-4ae4-aea2-52056ca7d3ad" alt="project" style="max-width: 100%">
 </div>
+
+## Módulo 13
+Décima terceira atividade do módulo:  
+Aplicar o conceito de interface na implementação do método de Sharpen na arma(adaga e espada)  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module13">Arquivo de Atividades</a>  
+  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4d8dd6af-3383-48ae-b058-d30cd2655575" alt="project" style="max-width: 100%">
+</div>
