@@ -128,6 +128,7 @@ Aplicar o conceito de interface na implementação do método de Sharpen na arma
 
 ## Módulo 14
 Décima quarta atividade do módulo:  
+Criar um sistema de inventário básico utilizando indexadores, exceções, itarators e corrotinas.
 <Planejar atividade>
 
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module14">Arquivo de Atividades</a>  
