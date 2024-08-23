@@ -132,7 +132,7 @@ Adicionar um tempo entre a coleta do item até ser adicionado na bolsa.
 
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module14">Arquivo de Atividades</a>  
 
-| Gif Delay | Código |
-| :----: | :----: |
-| <img src="/Module14/Game.gif" alt="project"/> | <img src="/Module14/codigo.png" alt="project"/> |
+<div align="center">
+  <img src="/Module14/Game.gif" alt="project"/>
+</div>
 
