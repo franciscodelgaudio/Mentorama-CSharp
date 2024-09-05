@@ -111,7 +111,7 @@ Criar uma conta no github e criar um respositório com template do unity.
 ## Módulo 12
 Décima segunda atividade do módulo:  
 Adicionar pontuação ao pegar os fantasmas, 200-400-600-800.  
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module12">Arquivo de Atividades</a>  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Module12">Arquivo de Atividades</a>  
   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/961b4081-7ed1-4ae4-aea2-52056ca7d3ad" alt="project" style="max-width: 100%">
@@ -120,7 +120,7 @@ Adicionar pontuação ao pegar os fantasmas, 200-400-600-800.
 ## Módulo 13
 Décima terceira atividade do módulo:  
 Aplicar o conceito de interface na implementação do método de Sharpen na arma(adaga e espada)  
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module13">Arquivo de Atividades</a>  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Module13">Arquivo de Atividades</a>  
   
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4d8dd6af-3383-48ae-b058-d30cd2655575" alt="project" style="max-width: 100%">
@@ -130,7 +130,7 @@ Aplicar o conceito de interface na implementação do método de Sharpen na arma
 Décima quarta atividade do módulo:  
 Adicionar um tempo entre a coleta do item até ser adicionado na bolsa.
 
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module14">Arquivo de Atividades</a>  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Module14">Arquivo de Atividades</a>  
 
 <div align="center">
   <img src="/Module14/Game.gif" alt="project"/>
@@ -140,7 +140,7 @@ Adicionar um tempo entre a coleta do item até ser adicionado na bolsa.
 Décima quinta atividade do módulo:
 Implementar a inserção de uma lista encadeada.
 
-<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module15">Arquivo de Atividades</a>  
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Module15">Arquivo de Atividades</a>  
 | Código | Resultado |
 | :----: | :----: |
 | <img src="https://github.com/user-attachments/assets/a53ac19a-2aa1-4ec3-9014-55cca61bdef9" alt="project"/> | <img src="https://github.com/user-attachments/assets/52fd718b-bad7-438f-9b30-1e52de4abebf" alt="project"/> |
