@@ -137,7 +137,7 @@ Adicionar um tempo entre a coleta do item até ser adicionado na bolsa.
 </div>
 
 ## Módulo 15
-Décima quinta atividade do módulo?
+Décima quinta atividade do módulo:
 Implementar a inserção de uma lista encadeada.
 
 <a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Files/Module15">Arquivo de Atividades</a>  
