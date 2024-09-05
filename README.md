@@ -154,8 +154,8 @@ Aplicar uma tag a elementos aleatórios e filtrar objetos com esta tag utilizand
 | :----: | :----: |
 | <img src="https://github.com/user-attachments/assets/7fbbf94e-155e-49de-a247-3c10fd01c93d" alt="project"/> | <img src="https://github.com/user-attachments/assets/678357a4-d793-4266-83ce-cca936976ab0" alt="project"/> |
 
-## Módulo 17
-Décima sétima atividade do módulo:  
+## Módulo 18
+Décima oitava atividade do módulo:  
 Máquina de estado na implementação de um simulador de autômato finito deterministico na linguagem C.  
 
 <a href="https://github.com/franciscodelgaudio/Simulador-de-AFD">Arquivo de Atividades</a>  
