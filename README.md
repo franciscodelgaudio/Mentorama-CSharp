@@ -144,3 +144,12 @@ Implementar a inserção de uma lista encadeada.
 | Código | Resultado |
 | :----: | :----: |
 | <img src="https://github.com/user-attachments/assets/a53ac19a-2aa1-4ec3-9014-55cca61bdef9" alt="project"/> | <img src="https://github.com/user-attachments/assets/52fd718b-bad7-438f-9b30-1e52de4abebf" alt="project"/> |
+
+## Módulo 16
+Décima sexta atividade do módulo:
+Aplicar uma tag a elementos aleatórios e filtrar objetos com esta tag utilizando o LINQ.
+
+<a href="https://github.com/franciscodelgaudio/Mentorama-Unity-CSharp/tree/main/Module16">Arquivo de Atividades</a>  
+| Código | Resultado |
+| :----: | :----: |
+| <img src="https://github.com/user-attachments/assets/7fbbf94e-155e-49de-a247-3c10fd01c93d" alt="project"/> | <img src="https://github.com/user-attachments/assets/678357a4-d793-4266-83ce-cca936976ab0" alt="project"/> |
