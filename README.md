@@ -153,3 +153,26 @@ Aplicar uma tag a elementos aleatórios e filtrar objetos com esta tag utilizand
 | Código | Resultado |
 | :----: | :----: |
 | <img src="https://github.com/user-attachments/assets/7fbbf94e-155e-49de-a247-3c10fd01c93d" alt="project"/> | <img src="https://github.com/user-attachments/assets/678357a4-d793-4266-83ce-cca936976ab0" alt="project"/> |
+
+## Módulo 17
+Décima sétima atividade do módulo:
+Máquina de estado na implementação de um simulador de autômato finito deterministico na linguagem C.
+
+<a href="https://github.com/franciscodelgaudio/Simulador-de-AFD">Arquivo de Atividades</a>  
+```txt
+alfabeto={a,b,c,0,1,2}
+estados={q0,q1,q2,q3,q4,q5}
+finais={q2,q5}
+(q0,a)= q1
+(q1,a)= q2
+(q1,b)= q1
+(q1,0)= q4
+(q2,c)= q3
+(q3,b)= q2
+(q3,0)= q5
+(q4,0)= q2
+(q4,1)= q5
+(q5,2)= q4
+```
+
+
